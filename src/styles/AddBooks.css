@@ -1,0 +1,9 @@
+.addbooks{
+    height: 550px;
+    width: 380px;
+    border: 3px solid brown;
+    transform: translate(500px);
+}
+.addbooks input{
+    margin: 10px 0px 10px 0px;
+}

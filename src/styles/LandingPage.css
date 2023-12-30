@@ -1,0 +1,23 @@
+.section1{
+    background-color:burlywood;
+    height: 200px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    left: 570px;
+}
+.section1 a{
+    color:yellow;
+    text-decoration: none;
+}
+.section1 img{
+    height: 100px;
+}
+.section1 a:hover{
+    color:mediumspringgreen;
+}
+.landingpage{
+    text-align: center;
+}
